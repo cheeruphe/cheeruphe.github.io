@@ -1,10 +1,8 @@
 # 🎖 Honors and Awards
-- *2021.10* Tencent Scholarship (Top 1%)
-- *2021.10* National Scholarship (Top 1%)
-- *2020.12* [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5%A5%96%E5%AD%A6%E9%87%91/9929412) (10 students in the world each year)
-- *2020.12* [AI Chinese new stars](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (100 worldwide each year)
-- *2020.12* [AI Chinese New Star Outstanding Scholar](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (10 candidates worldwide each year)
-- *2020.12* [ByteDance Scholars Program](https://ur.bytedance.com/scholarship) (10 students in China each year)
-- *2020.10* Tianzhou Chen Scholarship (Top 1%)
-- *2020.10* National Scholarship (Top 1%)
-- *2015.10* National Scholarship (Undergraduate) (Top 1%)
+- *2024.06* Outstanding Communist Party Member (School of Computer Science, Northwestern Polytechnical University)
+- *2023.09* Outstanding Student (Key Laboratory of Intelligent Perception and Computing of Ministry of Industry and Information Technology)
+- *2022.10* Outstanding Publicity Ambassador (CCF Open Source Development Committee)
+- *2022.06* Outstanding graduate of Shaanxi Normal University
+- *2022.03* National Scholarship (Top 5%)
+- *2016.06* Outstanding Graduate of Liaoning Province
+- *2014.10* National Encouragement scholarship
