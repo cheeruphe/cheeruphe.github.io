@@ -6,7 +6,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Joint Semantic Extraction and Resource Optimization in Communication-Efficient UAV Crowdsensing](https://ieeexplore.ieee.org/document/11142806) \\
-**Erhe Yang**, Zhiwen Yu, Yao Zhang, Helei Cui, Zhaoxiang Huang, Hui Wang, Jiaju Ren, Bin Guo ✅
+**Erhe Yang**, Zhiwen Yu, Yao Zhang, Helei Cui, Zhaoxiang Huang, Hui Wang, Jiaju Ren, Bin Guo （**中科院二区，CCF C类期刊**）
 
 </div>
 </div>
@@ -17,7 +17,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Incremental entity summarization with formal concept analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9459533&tag=1) \\
-**Erhe Yang**, Fei Hao, Yixuan Yang, Carmen De Maio, Aziz Nasridinov, Geyong Min, Laurence T. Yang
+**Erhe Yang**, Fei Hao, Yixuan Yang, Carmen De Maio, Aziz Nasridinov, Geyong Min, Laurence T. Yang （**CCF A类期刊**）
 </div>
 </div>
 
@@ -26,5 +26,5 @@
 
 
 ## Others
-- `TMC 2025` [Erasure Coding-Based Cost-Optimized and Latency-Aware Data Storage in UAV-Enabled Edge Systems](https://ieeexplore.ieee.org/abstract/document/11105766/), Zhaoxiang Huang, Zhiwen Yu, Liang Wang, Huan Zhou, **Erhe Yang**, Bin Guo.
-- ``IoTJ 2025`` [Energy-Efficient Multi-UAV Collaborative Reliable Storage: A Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10902582/), Zhaoxiang Huang, Zhiwen Yu, Zhijie Huang, Huan Zhou, **Erhe Yang**, Ziyue Yu, Jiangyan Xu, Bin Guo
+- `TMC 2025` [Erasure Coding-Based Cost-Optimized and Latency-Aware Data Storage in UAV-Enabled Edge Systems](https://ieeexplore.ieee.org/abstract/document/11105766/), Zhaoxiang Huang, Zhiwen Yu, Liang Wang, Huan Zhou, **Erhe Yang**, Bin Guo. （**CCF A类期刊**）
+- ``IoTJ 2025`` [Energy-Efficient Multi-UAV Collaborative Reliable Storage: A Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10902582/), Zhaoxiang Huang, Zhiwen Yu, Zhijie Huang, Huan Zhou, **Erhe Yang**, Ziyue Yu, Jiangyan Xu, Bin Guo （**中科院二区，CCF C类期刊**）
