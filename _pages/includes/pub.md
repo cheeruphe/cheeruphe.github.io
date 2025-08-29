@@ -26,5 +26,5 @@
 
 
 ## Others
-- `NeurIPS 2023` [Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective](https://openreview.net/forum?id=Rp4PA0ez0m), Pengfei Wei, Lingdong Kong, Xinghua Qu, **Yi Ren**, et al.
-- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
+- `TMC 2025` [Erasure Coding-Based Cost-Optimized and Latency-Aware Data Storage in UAV-Enabled Edge Systems](https://ieeexplore.ieee.org/abstract/document/11105766/), Zhaoxiang Huang, Zhiwen Yu, Liang Wang, Huan Zhou, **Erhe Yang**, Bin Guo.
+- ``IoTJ 2025`` [Energy-Efficient Multi-UAV Collaborative Reliable Storage: A Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/10902582/), Zhaoxiang Huang, Zhiwen Yu, Zhijie Huang, Huan Zhou, **Erhe Yang**, Ziyue Yu, Jiangyan Xu, Bin Guo
