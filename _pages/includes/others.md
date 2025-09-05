@@ -9,4 +9,3 @@
 
 # 💻 Internships
 - *2021.10 - 2021.12*, [Inspur Group](https://www.inspur.com/lcjtww/gylc32/2315125/index.html), Xi'an.
-- *2020.04 - 2020.6*, Volunteer Teaching, Jinhu Tuo Primary School, Luoyang.
