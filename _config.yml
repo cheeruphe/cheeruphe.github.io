@@ -24,11 +24,11 @@ author:
   name             : "Erhe Yang (杨二贺)"
   avatar           : "images/photo.png"
   bio              : ""
-  location         : Xi'an
+  location         : "Xi'an"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=cxTkSpcAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : erhyang@163.com
+  email            : "erhyang@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
