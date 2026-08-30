@@ -2,7 +2,7 @@
 
 ## 📡 Semantic Communication & Crowd Sensing
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/auvSemantic.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/taskFramework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Task-Oriented Semantic Communication for AUV Collaborative Sensing with Confidence-Prioritized Triplet Compression** \
@@ -20,7 +20,14 @@
 </div>
 </div>
 
-* `ICASSP 2026` **Semantic-Aware UAV-Assisted Data Collection in WPT-Enabled Space-Air-Sea Integrated Networks**, **Erhe Yang**, Zhiwen Yu, Zhaoxiang Huang, Hui Wang, Liang Fan, Hao Peng. （**CCF B类，国际信号处理领域重要会议**）
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/SAGINframework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Semantic-Aware UAV-Assisted Data Collection in WPT-Enabled Space-Air-Sea Integrated Networks** \
+**Erhe Yang**, Zhiwen Yu, Zhaoxiang Huang, Hui Wang, Liang Fan, Hao Peng. （**CCF B类，国际信号处理领域重要会议**）
+
+</div>
+</div>
 
 ## 🧾 Knowledge Graph & Entity Summarization
 
